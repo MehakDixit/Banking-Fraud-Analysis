@@ -1,5 +1,4 @@
 # Banking-Fraud-Analysis
-# Fraud Detection & Risk Analytics
 
 ## Project Overview
 This project focuses on analyzing financial transaction data to identify suspicious transaction patterns, high-risk customer behavior, and potential fraud activities using SQL and Excel.
