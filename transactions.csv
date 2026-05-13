@@ -1,0 +1,6 @@
+﻿transaction_id,customer_id,transaction_date,transaction_amount,merchant_category,transaction_type,city,state,device_type,payment_method,fraud_flag
+1001,201,1/1/2025,1500,Electronics,Online,Mumbai,Maharashtra,Mobile,Credit Card,0
+1002,202,1/1/2025,25000,Jewelry,POS,Delhi,Delhi,Desktop,Debit Card,1
+1003,201,1/2/2025,3000,Travel,Online,Mumbai,Maharashtra,Mobile,UPI,0
+1004,203,1/2/2025,45000,Luxury,Online,Bangalore,Karnataka,Tablet,Credit Card,1
+1005,204,1/3/2025,200,Food,POS,Lucknow,UP,Mobile,UPI,0
